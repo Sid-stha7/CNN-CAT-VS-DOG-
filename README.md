@@ -81,4 +81,24 @@ score of our model was 0.43 for cat as true and 0.54 for dog as true.
 
 ![image](https://user-images.githubusercontent.com/106294475/170424421-f393a693-b24f-4894-96fb-ec7ca3a32ccf.png)
 
+# Result
 
+<h3> After the model was successfully trained. For test 1 we had given input of a file which is cat picture and
+after it went in out prediction model. The model classified the picture as cat. The input file and result are
+shown below </h3>
+
+![image](https://user-images.githubusercontent.com/106294475/170424550-3d6f231e-0e46-4ab8-91d8-3f6054de1c0b.png)
+
+<h3>For test 2 we had given input of a file which is a dog picture and after it went in out prediction model. </h3>
+
+![image](https://user-images.githubusercontent.com/106294475/170424668-2054a896-a370-490c-89c6-5ce96b97ce6c.png)
+
+<h3>The model classified the picture as dog. The input file and result are shown below: </h3>
+
+![image](https://user-images.githubusercontent.com/106294475/170424738-28c2c120-47f9-4210-a54a-4b58b58d3f11.png)
+
+# Recommendation:
+In future the model shall not be made for only of 2 classes, it will be escalated into more than 2 classes.
+The accuracy of the model can be increased by properly tuning the hyper parameters. The model will be
+evaluated on different algorithms and activation functions as well. In order to make the model more
+accurate it will be trained for more epochs.
